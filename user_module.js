@@ -1,0 +1,1 @@
+var something = module.export = {};
